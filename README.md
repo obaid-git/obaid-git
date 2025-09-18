@@ -1,9 +1,11 @@
 <div align="center">
 
+# Hi, I'm Obaid Ullah
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF8C42&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Obaid+Ullah;Cybersecurity+Enthusiast;Web+Application+Developer;WordPress+Specialist">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=E85D04&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Obaid+Ullah;Cybersecurity+Enthusiast;Web+Application+Developer;WordPress+Specialist">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF8C42&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Obaid+Ullah;Cybersecurity+Enthusiast;Web+Application+Developer;WordPress+Specialist" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF8C42&background=00000000&center=true&vCenter=true&width=400&lines=Cybersecurity+Enthusiast;Web+Application+Developer;WordPress+Specialist">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E85D04&background=00000000&center=true&vCenter=true&width=400&lines=Cybersecurity+Enthusiast;Web+Application+Developer;WordPress+Specialist">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF8C42&background=00000000&center=true&vCenter=true&width=400&lines=Cybersecurity+Enthusiast;Web+Application+Developer;WordPress+Specialist" alt="Typing SVG" />
 </picture>
 
 </div>
