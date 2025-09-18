@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-obaid.live-2563eb?style=flat&logo=safari&logoColor=white)](https://obaid.live)
 [![Email](https://img.shields.io/badge/Email-obaid__ullah@aol.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:obaid_ullah@aol.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaidullah-developer/)
 
 </div>
 
