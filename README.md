@@ -197,15 +197,33 @@ Contribution Pattern: Consistent, Project-driven
 <div align="center">
 
 ### Core Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,flutter,mysql,git&theme=dark" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" /></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,figma,docker,linux,postman,bootstrap,tailwind,nodejs,mongodb,postgres&theme=dark" />
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 
 ### Specialized Platforms
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Cybersecurity-FF8C42?style=flat-square&logo=security&logoColor=white" height="48"/>
+<a href="https://wordpress.org/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
+<a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" height="48"/></a>
+<a href="https://www.cybersecurity-help.cz/" target="_blank"><img src="https://img.shields.io/badge/Cybersecurity-FF8C42?style=flat-square&logo=security&logoColor=white" height="48"/></a>
 
 </div>
 
