@@ -4,9 +4,15 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-obaid.live-E85D04?style=flat&logo=safari&logoColor=white)](https://obaid.live)
-[![Email](https://img.shields.io/badge/Email-obaid__ullah@aol.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:obaid_ullah@aol.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaidullah-developer/)
+<a href="https://obaid.live" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-obaid.live-E85D04?style=flat&logo=safari&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:obaid_ullah@aol.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-obaid__ullah@aol.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/obaidullah-developer/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 
@@ -23,7 +29,7 @@
 I'm a passionate full-stack developer with expertise in modern web technologies and a strong focus on creating scalable, user-centric applications. Currently expanding my knowledge in cybersecurity while building innovative solutions.
 
 **Current Focus:**
-- 🚀 Building a comprehensive [Freelancing Platform](https://freelance.obaid.live)
+- 🚀 Building a comprehensive <a href="https://freelance.obaid.live" target="_blank">Freelancing Platform</a>
 - 🔐 Advancing cybersecurity skills and security-first development
 - 📚 Mastering Laravel and CodeIgniter for robust backend solutions
 - 🎯 Creating seamless user experiences with modern frontend frameworks
@@ -145,12 +151,16 @@ const infrastructure = {
 </p>
 
 ### **Development Focus**
+<div align="left">
+
 ```yaml
 Most Active In: JavaScript, PHP, CSS
 Primary Frameworks: Laravel, React, WordPress  
 Development Style: Full-stack, Security-focused
 Contribution Pattern: Consistent, Project-driven
 ```
+
+</div>
 
 </div>
 
@@ -162,7 +172,7 @@ Contribution Pattern: Consistent, Project-driven
 **Full-stack web application** • Laravel, MySQL, Vue.js
 > A comprehensive platform connecting freelancers with clients, featuring secure payments, project management, and real-time communication.
 
-[**Live Demo**](https://freelance.obaid.live) • [**View Code**](https://github.com/obaid-git/freelancing-platform)
+<a href="https://freelance.obaid.live" target="_blank"><strong>Live Demo</strong></a> • <a href="https://github.com/obaid-git/freelancing-platform" target="_blank"><strong>View Code</strong></a>
 
 ---
 
@@ -170,7 +180,7 @@ Contribution Pattern: Consistent, Project-driven
 **Educational platform** • PHP, MySQL, JavaScript
 > Complete LMS solution with course management, student enrollment, progress tracking, and interactive learning modules.
 
-[**View Project**](https://mooc.magnacartacollege.ac.uk/) • [**View Code**](https://github.com/obaid-git/lms-system)
+<a href="https://mooc.magnacartacollege.ac.uk/" target="_blank"><strong>View Project</strong></a> • <a href="https://github.com/obaid-git/lms-system" target="_blank"><strong>View Code</strong></a>
 
 </div>
 
@@ -250,8 +260,12 @@ graph LR
 ### Open to Opportunities
 **Available for freelance projects, full-time positions, and collaborative ventures**
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-E85D04?style=flat&logo=safari&logoColor=white)](https://obaid.live)
-[![Hire Me](https://img.shields.io/badge/Upwork_Profile-FF8C42?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/obaidupwork)
+<a href="https://obaid.live" target="_blank">
+  <img src="https://img.shields.io/badge/View_Portfolio-E85D04?style=flat&logo=safari&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.upwork.com/freelancers/obaidupwork" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork_Profile-FF8C42?style=flat&logo=upwork&logoColor=white" alt="Upwork">
+</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=obaid-git&style=flat&color=FF8C42&label_color=0D1117">
