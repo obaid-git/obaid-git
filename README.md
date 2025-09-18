@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF8C42&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Obaid+Ullah;Frontend+Developer;WordPress+Expert;Cybersecurity+Enthusiast">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=E85D04&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Obaid+Ullah;Frontend+Developer;WordPress+Expert;Cybersecurity+Enthusiast">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF8C42&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Obaid+Ullah;Frontend+Developer;WordPress+Expert;Cybersecurity+Enthusiast" alt="Typing SVG" />
-</picture>
+# Hi, I'm Obaid Ullah
+
+**Cybersecurity Enthusiast • Web Application Developer • WordPress Specialist**
 
 <div align="center">
 
@@ -160,7 +158,7 @@ Contribution Pattern: Consistent, Project-driven
 
 <div align="center">
 
-### 🚀 Freelancing Platform
+### 💻 Freelancing Platform
 **Full-stack web application** • Laravel, MySQL, Vue.js
 > A comprehensive platform connecting freelancers with clients, featuring secure payments, project management, and real-time communication.
 
@@ -168,11 +166,11 @@ Contribution Pattern: Consistent, Project-driven
 
 ---
 
-### 🌐 Portfolio Website  
-**Responsive web design** • HTML5, CSS3, JavaScript
-> Modern, responsive portfolio showcasing projects and skills with optimized performance and accessibility.
+### 📚 Learning Management System
+**Educational platform** • PHP, MySQL, JavaScript
+> Complete LMS solution with course management, student enrollment, progress tracking, and interactive learning modules.
 
-[**Visit Site**](https://obaid.live) • [**View Code**](https://github.com/obaid-git/portfolio)
+[**View Project**](https://mooc.magnacartacollege.ac.uk/) • [**View Code**](https://github.com/obaid-git/lms-system)
 
 </div>
 
