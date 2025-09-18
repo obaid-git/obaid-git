@@ -6,13 +6,13 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-obaid.live-2563eb?style=flat&logo=safari&logoColor=white)](https://obaid.live)
 [![Email](https://img.shields.io/badge/Email-obaid__ullah@aol.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:obaid_ullah@aol.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaidullah-developer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
 
 </div>
 
 <br>
 
-## About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
 <img align="right" alt="Developer" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -32,7 +32,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
 
 <br clear="right"/>
 
-## Technical Expertise
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Technical Expertise
 
 <table>
 <tr>
@@ -84,17 +84,17 @@ const infrastructure = {
 </tr>
 </table>
 
-## GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> GitHub Analytics
 
 <div align="center">
-  
+
 ### **Activity Overview**
-![Obaid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 ### **Statistics & Insights**
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obaid-git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid-git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ### **Contribution Streak**
@@ -107,9 +107,17 @@ const infrastructure = {
   <img src="https://github-profile-trophy.vercel.app/?username=obaid-git&theme=discord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
+### **Development Focus**
+```yaml
+Most Active In: JavaScript, PHP, CSS
+Primary Frameworks: Laravel, React, WordPress  
+Development Style: Full-stack, Security-focused
+Contribution Pattern: Consistent, Project-driven
+```
+
 </div>
 
-## Featured Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Featured Projects
 
 <div align="center">
 
@@ -129,7 +137,7 @@ const infrastructure = {
 
 </div>
 
-## Professional Skills
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Professional Skills
 
 <div align="center">
 
@@ -146,7 +154,7 @@ const infrastructure = {
 
 </div>
 
-## What Sets Me Apart
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> What Sets Me Apart
 
 <table>
 <tr>
@@ -174,7 +182,7 @@ Optimizing applications for speed, scalability, and maintainability
 </tr>
 </table>
 
-## Current Learning Path
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Current Learning Path
 
 ```mermaid
 graph LR
