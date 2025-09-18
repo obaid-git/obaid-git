@@ -18,7 +18,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> About Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -42,7 +42,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies 
 
 <br clear="right"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Technical Expertise
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technical Expertise
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ const infrastructure = {
 </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"> GitHub Analytics
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Contribution Pattern: Consistent, Project-driven
 
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Featured Projects
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Featured Projects
 
 <div align="center">
 
@@ -184,36 +184,24 @@ Contribution Pattern: Consistent, Project-driven
 
 </div>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Professional Skills
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Professional Skills
 
 <div align="center">
 
 ### Core Technologies
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,flutter,mysql,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,flutter,mysql,git&theme=light">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,flutter,mysql,git&theme=dark" />
-</picture>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,flutter,mysql,git&theme=dark" />
 
 ### Development Tools
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,figma,docker,linux,postman,bootstrap,tailwind,nodejs,mongodb,postgres&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,figma,docker,linux,postman,bootstrap,tailwind,nodejs,mongodb,postgres&theme=light">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,docker,linux,postman,bootstrap,tailwind,nodejs,mongodb,postgres&theme=dark" />
-</picture>
+<img src="https://skillicons.dev/icons?i=vscode,figma,docker,linux,postman,bootstrap,tailwind,nodejs,mongodb,postgres&theme=dark" />
 
 ### Specialized Platforms
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=wordpress&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=wordpress&theme=light">
-  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-</picture>
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Cybersecurity-FF8C42?style=flat-square&logo=security&logoColor=white" height="48"/>
 
 </div>
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="25"> What Sets Me Apart
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> What Sets Me Apart
 
 <table>
 <tr>
@@ -241,7 +229,7 @@ Optimizing applications for speed, scalability, and maintainability
 </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Current Learning Path
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Current Learning Path
 
 ```mermaid
 graph LR
@@ -278,11 +266,5 @@ graph LR
 ---
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&background=00000000&center=true&vCenter=true&width=300&lines=Built+with+%E2%9D%A4%EF%B8%8F+and+attention+to+detail">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6B7280&background=00000000&center=true&vCenter=true&width=300&lines=Built+with+%E2%9D%A4%EF%B8%8F+and+attention+to+detail">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&background=00000000&center=true&vCenter=true&width=300&lines=Built+with+%E2%9D%A4%EF%B8%8F+and+attention+to+detail" alt="Built with love" />
-</picture>
-
+<sub>Built with ❤️ and attention to detail</sub>
 </div>
