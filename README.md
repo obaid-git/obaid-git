@@ -87,13 +87,25 @@ const infrastructure = {
 ## GitHub Analytics
 
 <div align="center">
+  
+### **Activity Overview**
+![Obaid's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=obaid-git&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151&icon_color=2563eb"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151"/>
+### **Statistics & Insights**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obaid-git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</p>
 
-<br><br>
+### **Contribution Streak**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=obaid-git&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=obaid-git&theme=default&hide_border=true&background=ffffff&ring=2563eb&fire=2563eb&currStreakLabel=374151&currStreakNum=2563eb&sideLabels=374151&sideNums=2563eb&dates=6b7280" alt="GitHub Streak" />
+### **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obaid-git&theme=discord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 </div>
 
