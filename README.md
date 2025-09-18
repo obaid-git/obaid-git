@@ -1,12 +1,14 @@
-# Hi, I'm Obaid Ullah
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=A78BFA&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Obaid+Ullah;Frontend+Developer;WordPress+Expert;Cybersecurity+Enthusiast">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=2563EB&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Obaid+Ullah;Frontend+Developer;WordPress+Expert;Cybersecurity+Enthusiast">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=A78BFA&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Obaid+Ullah;Frontend+Developer;WordPress+Expert;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</picture>
 
 <div align="center">
-  
-**Frontend Developer • WordPress Expert • Cybersecurity Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-obaid.live-2563eb?style=flat&logo=safari&logoColor=white)](https://obaid.live)
 [![Email](https://img.shields.io/badge/Email-obaid__ullah@aol.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:obaid_ullah@aol.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obaidullah-developer/)
 
 </div>
 
@@ -14,7 +16,11 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-<img align="right" alt="Developer" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img align="right" alt="Snake eating contributions" width="300" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 I'm a passionate full-stack developer with expertise in modern web technologies and a strong focus on creating scalable, user-centric applications. Currently expanding my knowledge in cybersecurity while building innovative solutions.
 
@@ -89,22 +95,55 @@ const infrastructure = {
 <div align="center">
 
 ### **Activity Overview**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A78BFA&line=A78BFA&point=A78BFA&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=2563EB&line=2563EB&point=2563EB&area_color=E0E7FF&title_color=1F2937&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A78BFA&line=A78BFA&point=A78BFA&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</picture>
 
 ### **Statistics & Insights**
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid-git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid-git&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151&icon_color=2563eb"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid-git&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+  </picture>
 </p>
 
 ### **Contribution Streak**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=obaid-git&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=obaid-git&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=obaid-git&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2563EB&fire=2563EB&currStreakLabel=374151&currStreakNum=2563EB&sideLabels=374151&sideNums=2563EB&dates=6B7280&background=FFFFFF">
+    <img src="https://streak-stats.demolab.com?user=obaid-git&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </picture>
 </p>
 
 ### **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=obaid-git&theme=discord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=obaid-git&theme=discord&no-frame=true&row=1&column=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=obaid-git&theme=flat&no-frame=true&row=1&column=6">
+    <img src="https://github-profile-trophy.vercel.app/?username=obaid-git&theme=discord&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  </picture>
 </p>
 
 ### **Development Focus**
@@ -142,13 +181,25 @@ Contribution Pattern: Consistent, Project-driven
 <div align="center">
 
 ### Core Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,flutter,mysql,git&theme=light" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,flutter,mysql,git&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,flutter,mysql,git&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,flutter,mysql,git&theme=dark" />
+</picture>
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,figma,docker,linux,postman,bootstrap,tailwind,nodejs,mongodb,postgres&theme=light" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,figma,docker,linux,postman,bootstrap,tailwind,nodejs,mongodb,postgres&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,figma,docker,linux,postman,bootstrap,tailwind,nodejs,mongodb,postgres&theme=light">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,docker,linux,postman,bootstrap,tailwind,nodejs,mongodb,postgres&theme=dark" />
+</picture>
 
 ### Specialized Platforms
-<img src="https://skillicons.dev/icons?i=wordpress&theme=light" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=wordpress&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=wordpress&theme=light">
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
+</picture>
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=security&logoColor=white" height="48"/>
 
@@ -202,14 +253,24 @@ graph LR
 **Available for freelance projects, full-time positions, and collaborative ventures**
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-2563eb?style=flat&logo=safari&logoColor=white)](https://obaid.live)
-[![Hire Me](https://img.shields.io/badge/Freelance_Available-10b981?style=flat&logo=upwork&logoColor=white)](https://freelance.obaid.live)
+[![Hire Me](https://img.shields.io/badge/Upwork_Profile-10b981?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/obaidupwork)
 
-<img src="https://komarev.com/ghpvc/?username=obaid-git&style=flat&color=2563eb" alt="Profile Views" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=obaid-git&style=flat&color=A78BFA&label_color=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=obaid-git&style=flat&color=2563EB&label_color=FFFFFF">
+  <img src="https://komarev.com/ghpvc/?username=obaid-git&style=flat&color=A78BFA&label_color=0D1117" alt="Profile Views" />
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Built with ❤️ and attention to detail</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=64748B&background=00000000&center=true&vCenter=true&width=300&lines=Built+with+%E2%9D%A4%EF%B8%8F+and+attention+to+detail">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=64748B&background=00000000&center=true&vCenter=true&width=300&lines=Built+with+%E2%9D%A4%EF%B8%8F+and+attention+to+detail">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=64748B&background=00000000&center=true&vCenter=true&width=300&lines=Built+with+%E2%9D%A4%EF%B8%8F+and+attention+to+detail" alt="Built with love" />
+</picture>
+
 </div>
