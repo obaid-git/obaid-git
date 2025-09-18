@@ -223,7 +223,8 @@ Contribution Pattern: Consistent, Project-driven
 ### Specialized Platforms
 <a href="https://wordpress.org/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
 <a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" height="48"/></a>
-<a href="https://www.cybersecurity-help.cz/" target="_blank"><img src="https://img.shields.io/badge/Cybersecurity-FF8C42?style=flat-square&logo=security&logoColor=white" height="48"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="48"/></a>
+<a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" height="48"/></a>
 
 </div>
 
