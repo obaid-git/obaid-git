@@ -18,7 +18,7 @@
 <a href="mailto:obaid_ullah@aol.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-obaid__ullah@aol.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://www.linkedin.com/in/obaidullah-developer/" target="_blank">
+<a href="https://www.linkedin.com/in/0baidullah/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
