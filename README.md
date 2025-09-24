@@ -72,24 +72,24 @@ I'm a passionate cybersecurity enthusiast dedicated to protecting digital enviro
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
-<img src="https://obaid.live/wp-content/uploads/2025/09/83a187f40055de37efae5e91161213c4.png" width="120" alt="TryHackMe Badge"/>
+<img src="https://obaid.live/wp-content/uploads/2025/09/83a187f40055de37efae5e91161213c4.png" width="180" alt="TryHackMe Badge"/>
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
-<img src="https://obaid.live/wp-content/uploads/2025/09/1534e8999f596c42a4edd8e256366ddb.png" width="120" alt="TryHackMe Badge"/>
+<img src="https://obaid.live/wp-content/uploads/2025/09/1534e8999f596c42a4edd8e256366ddb.png" width="180" alt="TryHackMe Badge"/>
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
-<img src="https://obaid.live/wp-content/uploads/2025/09/81126744d6583a15a1f3f764c457e8ad.png" width="120" alt="TryHackMe Badge"/>
+<img src="https://obaid.live/wp-content/uploads/2025/09/81126744d6583a15a1f3f764c457e8ad.png" width="180" alt="TryHackMe Badge"/>
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
-<img src="https://obaid.live/wp-content/uploads/2025/09/1db4c916884abdcf44bc2bd307e1a154.png" width="120" alt="TryHackMe Badge"/>
+<img src="https://obaid.live/wp-content/uploads/2025/09/1db4c916884abdcf44bc2bd307e1a154.png" width="180" alt="TryHackMe Badge"/>
 </a>
 </td>
 </tr>
