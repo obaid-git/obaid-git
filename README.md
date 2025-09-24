@@ -3,9 +3,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity;Network+Defense+Explorer;Ethical+Hacking+Learner">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity;Network+Defense+Explorer;Ethical+Hacking+Learner">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity;Network+Defense+Explorer;Ethical+Hacking+Learner" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity+Analyst;Network+Defense+Explorer;Ethical+Hacking+Learner">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity+Analyst;Network+Defense+Explorer;Ethical+Hacking+Learner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity+Analyst;Network+Defense+Explorer;Ethical+Hacking+Learner" alt="Typing SVG" />
 </picture>
 
 <a href="https://linkedin.com/in/obaidullah-tech" target="_blank">
