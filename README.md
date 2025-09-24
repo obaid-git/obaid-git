@@ -62,7 +62,7 @@ I'm a passionate cybersecurity enthusiast dedicated to protecting digital enviro
 <div align="center">
 
 <a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/obaid.tryhackme.png" alt="TryHackMe Badge" width="400"/>
+  <img src="https://obaid.live/wp-content/uploads/2025/09/7e54b8469745a7b06d3d0828d8e41a12.png" alt="TryHackMe Profile Badge" width="400"/>
 </a>
 
 </div>
@@ -73,29 +73,24 @@ I'm a passionate cybersecurity enthusiast dedicated to protecting digital enviro
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://tryhackme-badges.s3.amazonaws.com/catlinuxtxt.svg" width="80" alt="Linux Competent"/>
-<br><b>cat linux.txt</b>
-<br><sub>Linux Fundamentals</sub>
+<a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
+<img src="https://obaid.live/wp-content/uploads/2025/09/83a187f40055de37efae5e91161213c4.png" width="120" alt="TryHackMe Badge"/>
+</a>
 </td>
 <td align="center" width="20%">
-<img src="https://tryhackme-badges.s3.amazonaws.com/7daystreak.svg" width="80" alt="7 Day Streak"/>
-<br><b>7 Day Streak</b>
-<br><sub>Consistent Learning</sub>
+<a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
+<img src="https://obaid.live/wp-content/uploads/2025/09/1534e8999f596c42a4edd8e256366ddb.png" width="120" alt="TryHackMe Badge"/>
+</a>
 </td>
 <td align="center" width="20%">
-<img src="https://tryhackme-badges.s3.amazonaws.com/3daystreak.svg" width="80" alt="3 Day Streak"/>
-<br><b>3 Day Streak</b>
-<br><sub>Regular Practice</sub>
+<a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
+<img src="https://obaid.live/wp-content/uploads/2025/09/81126744d6583a15a1f3f764c457e8ad.png" width="120" alt="TryHackMe Badge"/>
+</a>
 </td>
 <td align="center" width="20%">
-<img src="https://tryhackme-badges.s3.amazonaws.com/webbed.svg" width="80" alt="Webbed"/>
-<br><b>Webbed</b>
-<br><sub>Web Security</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://tryhackme-badges.s3.amazonaws.com/hack2win2025.svg" width="80" alt="Raffle Royalty"/>
-<br><b>Raffle Royalty</b>
-<br><sub>Hack2Win 2025</sub>
+<a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
+<img src="https://obaid.live/wp-content/uploads/2025/09/1db4c916884abdcf44bc2bd307e1a154.png" width="120" alt="TryHackMe Badge"/>
+</a>
 </td>
 </tr>
 </table>
