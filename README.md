@@ -1,297 +1,107 @@
-<div align="center">
-
-# Hi, I'm Obaid Ullah
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF8C42&background=00000000&center=true&vCenter=true&width=400&lines=Cybersecurity+Enthusiast;Web+Application+Developer;WordPress+Specialist">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E85D04&background=00000000&center=true&vCenter=true&width=400&lines=Cybersecurity+Enthusiast;Web+Application+Developer;WordPress+Specialist">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF8C42&background=00000000&center=true&vCenter=true&width=400&lines=Cybersecurity+Enthusiast;Web+Application+Developer;WordPress+Specialist" alt="Typing SVG" />
-</picture>
-
-</div>
+# Junior Cybersecurity Enthusiast | Exploring Network Defense and Ethical Hacking
 
 <div align="center">
 
-<a href="https://obaid.live" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-obaid.live-E85D04?style=flat&logo=safari&logoColor=white" alt="Portfolio">
-</a>
-<a href="mailto:obaid_ullah@aol.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-obaid__ullah@aol.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/0baidullah/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+**Aspiring Cybersecurity Analyst | Junior Security Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/obaidullah-tech)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obaid@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obaid-git)
 
 </div>
 
-<br>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> About Me
+## About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img align="right" alt="Snake eating contributions" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+I'm a passionate cybersecurity enthusiast dedicated to protecting digital environments and learning the fundamentals of ethical hacking. Through hands-on practice with platforms like TryHackMe and virtual lab environments, I'm building practical skills in network security, vulnerability assessment, and incident response. 
 
-I'm a passionate full-stack developer with expertise in modern web technologies and a strong focus on creating scalable, user-centric applications. Currently expanding my knowledge in cybersecurity while building innovative solutions.
+I'm eager to contribute to security teams and grow my expertise in defending against cyber threats while pursuing industry certifications and real-world experience.
 
-**Current Focus:**
-- 🚀 Building a comprehensive <a href="https://freelance.obaid.live" target="_blank">Freelancing Platform</a>
-- 🔐 Advancing cybersecurity skills and security-first development
-- 📚 Mastering Laravel and CodeIgniter for robust backend solutions
-- 🎯 Creating seamless user experiences with modern frontend frameworks
+---
 
-**Professional Interests:**
-- Full-stack web development
-- WordPress custom development & optimization
-- Application security and best practices
-- Performance optimization and scalability
+## Certifications & Badges
 
-<br clear="right"/>
+### Credly Certifications
+<div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Technical Expertise
+[![Badge 1](https://images.credly.com/size/150x150/images/badge1-placeholder.png)](https://www.credly.com/badges/badge1-id)
+[![Badge 2](https://images.credly.com/size/150x150/images/badge2-placeholder.png)](https://www.credly.com/badges/badge2-id)
+
+</div>
+
+### TryHackMe Progress
+<div align="center">
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4183767" style='border:none; width:400px; height:200px;'></iframe>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/obaid.tryhackme.png" alt="TryHackMe Badge" width="300"/>
+
+</div>
+
+---
+
+## Technical Skills
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Frontend Development
-```javascript
-const frontend = {
-  languages: ['JavaScript', 'HTML5', 'CSS3'],
-  frameworks: ['React', 'Vue.js'],
-  styling: ['Tailwind CSS', 'Bootstrap', 'SASS'],
-  tools: ['Vite', 'Webpack', 'Figma']
-}
-```
-
-### Mobile Development
-```dart
-const mobile = {
-  framework: 'Flutter',
-  language: 'Dart',
-  platforms: ['iOS', 'Android'],
-  state_management: ['Provider', 'Bloc']
-}
-```
+**Security Tools & Platforms**
+- Linux fundamentals
+- Wireshark packet analysis
+- Nmap network scanning
+- Burp Suite web testing
+- Vulnerability scanning tools
 
 </td>
 <td valign="top" width="50%">
 
-### Backend Development
-```php
-const backend = {
-  languages: ['PHP', 'JavaScript', 'Python'],
-  frameworks: ['Laravel', 'CodeIgniter', 'Node.js'],
-  cms: ['WordPress', 'Custom Solutions'],
-  security: ['Authentication', 'Authorization', 'Data Protection']
-}
-```
-
-### Database & DevOps
-```sql
-const infrastructure = {
-  databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
-  tools: ['Docker', 'Git', 'Linux'],
-  cloud: ['Digital Ocean', 'AWS Basics']
-}
-```
+**Core Competencies**
+- Network security fundamentals
+- Ethical hacking basics
+- Vulnerability assessment
+- Risk analysis
+- Team collaboration
 
 </td>
 </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"> GitHub Analytics
+---
 
-<div align="center">
+## Learning Goals
 
-### **Activity Overview**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF8C42&line=FF8C42&point=FF8C42&area_color=FF8C4220&title_color=FFFFFF&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=FFFFFF&color=E85D04&line=E85D04&point=E85D04&area_color=FFF3E0&title_color=1F2937&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=obaid-git&custom_title=Obaid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF8C42&line=FF8C42&point=FF8C42&area_color=FF8C4220&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</picture>
-
-### **Statistics & Insights**
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid-git&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FF8C42"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid-git&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=1F2937&text_color=374151&icon_color=E85D04"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=obaid-git&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FF8C42" alt="GitHub Stats"/>
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F2937&text_color=374151"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=obaid-git&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="Top Languages"/>
-  </picture>
-</p>
-
-### **Contribution Streak**
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=obaid-git&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=FF8C42&fire=FF8C42&currStreakLabel=FFFFFF&currStreakNum=FF8C42&sideLabels=C9D1D9&sideNums=FF8C42&dates=8B949E">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=obaid-git&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=E85D04&fire=E85D04&currStreakLabel=1F2937&currStreakNum=E85D04&sideLabels=374151&sideNums=E85D04&dates=6B7280&background=FFFFFF">
-    <img src="https://streak-stats.demolab.com?user=obaid-git&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=FF8C42&fire=FF8C42&currStreakLabel=FFFFFF&currStreakNum=FF8C42&sideLabels=C9D1D9&sideNums=FF8C42&dates=8B949E" alt="GitHub Streak" />
-  </picture>
-</p>
-
-### **GitHub Trophies**
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=obaid-git&theme=onedark&no-frame=true&row=1&column=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=obaid-git&theme=flat&no-frame=true&row=1&column=6">
-    <img src="https://github-profile-trophy.vercel.app/?username=obaid-git&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </picture>
-</p>
-
-### **Development Focus**
-<div align="left">
-
-```yaml
-Most Active In: JavaScript, PHP, CSS
-Primary Frameworks: Laravel, React, WordPress  
-Development Style: Full-stack, Security-focused
-Contribution Pattern: Consistent, Project-driven
-```
-
-</div>
-
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Featured Projects
-
-<div align="center">
-
-### 💻 Freelancing Platform
-**Full-stack web application** • Laravel, MySQL, Vue.js
-> A comprehensive platform connecting freelancers with clients, featuring secure payments, project management, and real-time communication.
-
-<a href="https://freelance.obaid.live" target="_blank"><strong>Live Demo</strong></a> • <a href="https://github.com/obaid-git/freelancing-platform" target="_blank"><strong>View Code</strong></a>
+**Currently pursuing:** CompTIA Security+ certification  
+**Career objective:** Junior Penetration Tester or SOC Analyst role
 
 ---
 
-### 📚 Learning Management System
-**Educational platform** • PHP, MySQL, JavaScript
-> Complete LMS solution with course management, student enrollment, progress tracking, and interactive learning modules.
-
-<a href="https://mooc.magnacartacollege.ac.uk/" target="_blank"><strong>View Project</strong></a> • <a href="https://github.com/obaid-git/lms-system" target="_blank"><strong>View Code</strong></a>
-
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Professional Skills
+## GitHub Activity
 
 <div align="center">
 
-### Core Technologies
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" /></a>
-<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" /></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-
-### Development Tools
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
-
-### Specialized Platforms
-<a href="https://wordpress.org/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
-<a href="https://codeigniter.com/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" height="48"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="48"/></a>
-<a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" height="48"/></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obaid-git&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obaid-git&layout=compact&theme=dark)
 
 </div>
-
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> What Sets Me Apart
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🎨 Design-First Approach**
-<br>
-Strong eye for UI/UX design with focus on user experience and modern aesthetics
-
-</td>
-<td width="33%" align="center">
-
-**🔒 Security Mindset**
-<br>
-Implementing security best practices from development to deployment
-
-</td>
-<td width="33%" align="center">
-
-**📈 Performance Focus**
-<br>
-Optimizing applications for speed, scalability, and maintainability
-
-</td>
-</tr>
-</table>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Current Learning Path
-
-```mermaid
-graph LR
-    A[Current Skills] --> B[Laravel Mastery]
-    A --> C[Cybersecurity]
-    A --> D[Advanced React]
-    B --> E[Enterprise Solutions]
-    C --> F[Secure Development]
-    D --> G[Full-Stack Expertise]
-```
 
 ---
 
+## Connect With Me
+
 <div align="center">
 
-### Open to Opportunities
-**Available for freelance projects, full-time positions, and collaborative ventures**
+**Open to networking, mentorship opportunities, and entry-level cybersecurity positions**
 
-<a href="https://obaid.live" target="_blank">
-  <img src="https://img.shields.io/badge/View_Portfolio-E85D04?style=flat&logo=safari&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://www.upwork.com/freelancers/obaidupwork" target="_blank">
-  <img src="https://img.shields.io/badge/Upwork_Profile-FF8C42?style=flat&logo=upwork&logoColor=white" alt="Upwork">
-</a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=obaid-git&style=flat&color=FF8C42&label_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=obaid-git&style=flat&color=E85D04&label_color=FFFFFF">
-  <img src="https://komarev.com/ghpvc/?username=obaid-git&style=flat&color=FF8C42&label_color=0D1117" alt="Profile Views" />
-</picture>
+[![LinkedIn](https://img.shields.io/badge/Professional_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/obaidullah-tech)
+[![Email](https://img.shields.io/badge/Get_In_Touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:obaid@example.com)
+[![GitHub](https://img.shields.io/badge/View_Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/obaid-git)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Built with ❤️ and attention to detail</sub>
+<i>"Security is not a product, but a process" - Bruce Schneier</i>
 </div>
