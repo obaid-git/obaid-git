@@ -62,7 +62,7 @@ I'm a passionate cybersecurity enthusiast dedicated to protecting digital enviro
 <div align="center">
 
 <a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
-  <img src="https://obaid.live/wp-content/uploads/2025/09/7e54b8469745a7b06d3d0828d8e41a12.png" alt="TryHackMe Profile Badge" width="400"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/obaid.tryhackme.png" alt="TryHackMe Profile Badge" width="400"/>
 </a>
 
 </div>
