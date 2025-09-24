@@ -3,9 +3,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity+Enthusiast;Network+Defense+Explorer;Ethical+Hacking+Learner">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity+Enthusiast;Network+Defense+Explorer;Ethical+Hacking+Learner">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity+Enthusiast;Network+Defense+Explorer;Ethical+Hacking+Learner" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity;Network+Defense+Explorer;Ethical+Hacking+Learner">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=DC2626&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity;Network+Defense+Explorer;Ethical+Hacking+Learner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&width=450&lines=Junior+Cybersecurity;Network+Defense+Explorer;Ethical+Hacking+Learner" alt="Typing SVG" />
 </picture>
 
 <a href="https://linkedin.com/in/obaidullah-tech" target="_blank">
@@ -61,9 +61,46 @@ I'm a passionate cybersecurity enthusiast dedicated to protecting digital enviro
 ### TryHackMe Progress
 <div align="center">
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4183767" style='border:none; width:400px; height:200px;'></iframe>
+
 <a href="https://tryhackme.com/p/obaid.tryhackme" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/obaid.tryhackme.png" alt="TryHackMe Badge" width="300"/>
 </a>
+
+</div>
+
+### TryHackMe Achievements
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://assets.tryhackme.com/img/badges/catlinuxtxt.svg" width="80" alt="Linux Competent"/>
+<br><b>cat linux.txt</b>
+<br><sub>Linux Fundamentals</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://assets.tryhackme.com/img/badges/7daystreak.svg" width="80" alt="7 Day Streak"/>
+<br><b>7 Day Streak</b>
+<br><sub>Consistent Learning</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://assets.tryhackme.com/img/badges/3daystreak.svg" width="80" alt="3 Day Streak"/>
+<br><b>3 Day Streak</b>
+<br><sub>Regular Practice</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://assets.tryhackme.com/img/badges/webbed.svg" width="80" alt="Webbed"/>
+<br><b>Webbed</b>
+<br><sub>Web Security</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://assets.tryhackme.com/img/badges/hack2win2025.svg" width="80" alt="Raffle Royalty"/>
+<br><b>Raffle Royalty</b>
+<br><sub>Hack2Win 2025</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
